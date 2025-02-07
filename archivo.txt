@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Cambio en la rama main
-=======
+
 Cambio en la rama-conflicto
->>>>>>> rama-conflicto
+
